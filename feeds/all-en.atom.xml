@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Adventures Indoors</title><link href="/" rel="alternate"></link><link href="/feeds/all-en.atom.xml" rel="self"></link><id>/</id><updated>2013-01-21T00:00:00Z</updated><entry><title>Web Request Indicator LED</title><link href="/web-request-indicator-led.html" rel="alternate"></link><updated>2013-01-21T00:00:00Z</updated><author><name>Michael Sizemore</name></author><id>tag:,2013-01-21:web-request-indicator-led.html</id><summary type="html">&lt;p&gt;The idea here is pretty simple. Each time someone visits this website I want to make an LED connected to a GPIO pin flash.&lt;/p&gt;
-&lt;p&gt;Things I have/know...
--LED connected to GPIO pins
--script to control it &lt;/p&gt;
-&lt;p&gt;Things I will need to figure out,,,
--how html requests are processed by the local machine
--how to trigger a script to run based on the above event&lt;/p&gt;</summary></entry><entry><title>Minecraft Integration with Pianobar</title><link href="/minecraft-integration-with-pianobar.html" rel="alternate"></link><updated>2013-01-12T08:20:00Z</updated><author><name>Michael Sizemore</name></author><id>tag:,2013-01-12:minecraft-integration-with-pianobar.html</id><summary type="html">&lt;p&gt;Features:
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Adventures Indoors</title><link href="/" rel="alternate"></link><link href="/feeds/all-en.atom.xml" rel="self"></link><id>/</id><updated>2013-01-12T08:20:00Z</updated><entry><title>Minecraft Integration with Pianobar</title><link href="/minecraft-integration-with-pianobar.html" rel="alternate"></link><updated>2013-01-12T08:20:00Z</updated><author><name>Michael Sizemore</name></author><id>tag:,2013-01-12:minecraft-integration-with-pianobar.html</id><summary type="html">&lt;p&gt;Features:
 -Letter shape definitions easily customizable
 -Writes string input in blocks in Minecraft
 -Wraps text based on linewidth variable
